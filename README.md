@@ -2,8 +2,8 @@
 
 About
 -----
-Code for PermGNN
-This directory contains code necessary for running PermGNN experiments.
+Code for PermGNN  
+This directory contains code necessary for running PermGNN experiments.  
 
 For more information, please check our paper:
 > Roy, Indradyumna, Abir De, and Soumen Chakrabarti. "Adversarial Permutation Guided Node Representations for Link Prediction." arXiv preprint arXiv:2012.08974 (2020). [\[PDF\]](https://arxiv.org/pdf/2012.08974.pdf)
@@ -64,7 +64,7 @@ If you find the code useful, please cite our paper:
       year={2020}
     }
 
-Indradyumna Roy, Indian Institute of Technology - Bombay 
+Indradyumna Roy, Indian Institute of Technology - Bombay  
 indraroy15@cse.iitb.ac.in
 
 
