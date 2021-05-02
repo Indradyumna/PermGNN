@@ -8,6 +8,8 @@ This directory contains code necessary for running PermGNN experiments.
 For more information, please check our paper:
 > Roy, Indradyumna, Abir De, and Soumen Chakrabarti. "Adversarial Permutation Guided Node Representations for Link Prediction." arXiv preprint arXiv:2012.08974 (2020). [\[PDF\]](https://arxiv.org/pdf/2012.08974.pdf)
 
+Data used in the paper is hosted at [\[DATA\]](https://drive.google.com/drive/folders/13SwwBb_fpy-ASbvyknrGs3zAI3X1QLxn?usp=sharing)  
+
 Requirements
 ------------
 
@@ -51,8 +53,7 @@ Notes
 -----
  - GPU usage is required
  - source code files are all in minmax folder.
- - To obtain data used in paper please refer to [\[DATA\]](https://drive.google.com/drive/folders/13SwwBb_fpy-ASbvyknrGs3zAI3X1QLxn?usp=sharing)
- - Paste the contents in data folder and run the code.
+ - Paste the contents [\[DATA\]](https://drive.google.com/drive/folders/13SwwBb_fpy-ASbvyknrGs3zAI3X1QLxn?usp=sharing) in data folder and run the code.
 
 Reference
 ---------
