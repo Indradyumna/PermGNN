@@ -51,6 +51,8 @@ Notes
 -----
  - GPU usage is required
  - source code files are all in minmax folder.
+ - To obtain data used in paper please refer to [\[DATA\]](https://drive.google.com/drive/folders/13SwwBb_fpy-ASbvyknrGs3zAI3X1QLxn?usp=sharing)
+ - Paste the contents in data folder and run the code.
 
 Reference
 ---------
